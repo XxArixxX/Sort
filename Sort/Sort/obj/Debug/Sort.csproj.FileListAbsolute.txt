@@ -1,0 +1,8 @@
+C:\Users\Gamer\source\repos\Sort\Sort\bin\Debug\Sort.exe.config
+C:\Users\Gamer\source\repos\Sort\Sort\bin\Debug\Sort.exe
+C:\Users\Gamer\source\repos\Sort\Sort\bin\Debug\Sort.pdb
+C:\Users\Gamer\source\repos\Sort\Sort\obj\Debug\Sort.csproj.AssemblyReference.cache
+C:\Users\Gamer\source\repos\Sort\Sort\obj\Debug\Sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gamer\source\repos\Sort\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\Sort\Sort\obj\Debug\Sort.exe
+C:\Users\Gamer\source\repos\Sort\Sort\obj\Debug\Sort.pdb
